@@ -462,7 +462,7 @@ text-decoration: none;
 
 .intro{
     min-height: 125vh;
-    background: url(../img/Hero.jpg) no-repeat center;
+    background: url(Hero.jpg) no-repeat center;
     background-size: cover;
     padding-top: 263px;
     padding-bottom: 223px;
